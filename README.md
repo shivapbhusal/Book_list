@@ -22,3 +22,10 @@
 18. A Simple Heart ( Flaubert ) 
 19. The Legend of Saint-Julian the Hospitaller ( 48 pages ) 
 20. The Temptation of Saint Anthony ( 135 pages) 
+
+## Authors to read 
+1. Chekhov
+2. Flaubert 
+3. Naipaul 
+4. Coetzee 
+5. Hemingway
