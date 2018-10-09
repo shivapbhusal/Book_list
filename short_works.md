@@ -1,6 +1,6 @@
-# Book_list
+# Short works ( less than 150 pages ) 
 
-## Novellas ( less than 150 pages) 
+## Novellas 
 
 1. Of Mice and Men ( 112 pages ) 
 2. Ghachar Ghochar ( 124 pages ) 
@@ -22,6 +22,23 @@
 18. A Simple Heart ( Flaubert ) 
 19. The Legend of Saint-Julian the Hospitaller ( 48 pages ) 
 20. The Temptation of Saint Anthony ( 135 pages) 
+
+## Short Non-fictions
+1. A Room of One’s Own
+2. Common Sense ( Thomas Paine ) 
+3. Here is New York 
+4. The Prince ( 71 pages ) Machiavelli
+5. Civilization and Its Discontents ( 127 pages ) Fraud 
+6. Why I write ?
+7. The Perpetual Race of Achilles and the Tortoise ( Borges ) 
+8. Days of Reading ( Proust ) 
+9. The Myth of Sisyphus (Camus ) 
+10. The Communist Manifesto 
+11. Letters to a Young Novelist ( llosa) 
+12. Chicago: city on the make
+13. Night by Elie Wiesel 
+14. A moveable feast 
+
 
 ## Authors to read 
 1. Chekhov
