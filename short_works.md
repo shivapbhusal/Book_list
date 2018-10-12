@@ -38,6 +38,7 @@
 12. Chicago: city on the make
 13. Night by Elie Wiesel 
 14. A moveable feast 
+15. Reading and Writing -- A personal account ( Naipaul ) 
 
 
 ## Authors to read 
