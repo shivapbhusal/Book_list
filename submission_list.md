@@ -13,6 +13,8 @@
 
 * North Dakota Quarterly: https://ndquarterly.org/
 
+* Gordon Square Review: http://www.gordonsquarereview.org/submit.html
+
 ## Poetry 
 * Thrush Poetry Journal : http://www.thrushpoetryjournal.com/
 
