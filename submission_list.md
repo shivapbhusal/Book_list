@@ -15,6 +15,12 @@
 
 * Gordon Square Review: http://www.gordonsquarereview.org/submit.html
 
+* Water Stone Review : https://waterstonereview.com/current/
+
+* Florida Review : http://floridareview.cah.ucf.edu/
+
+* The Fourth River Review : http://www.thefourthriver.com/index.php/submit
+
 ## Poetry 
 * Thrush Poetry Journal : http://www.thrushpoetryjournal.com/
 
