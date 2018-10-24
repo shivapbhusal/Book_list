@@ -1,4 +1,4 @@
-# Submission Lists Journals 
+# List of Literary Journals
 
 ## Fiction 
 * The Cincinati Review : https://www.cincinnatireview.com/submission_guidelines/
