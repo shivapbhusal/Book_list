@@ -11,6 +11,8 @@
 
 * Thrice Fiction : http://www.thricefiction.com/
 
+* North Dakota Quarterly: https://ndquarterly.org/
+
 ## Poetry 
 * Thrush Poetry Journal : http://www.thrushpoetryjournal.com/
 
