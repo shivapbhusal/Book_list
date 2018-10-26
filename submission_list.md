@@ -45,6 +45,8 @@
 
 * Madison Review : https://www.themadisonrevw.com/
 
+* The Crawl Space Journal : http://thecrawlspace.me/issue-two/
+
 See other lists in this link:
 
 http://www.erikakrousewriter.com/erika-krouses-ocd-ranking-of-483-literary-magazines-for-short-fiction/
